@@ -12,7 +12,7 @@ I'm a tech enthusiast currently growing as a Full Stack Developer. I work mainly
 I'm familiar with **RESTful APIs**, **MySQL databases**, and API testing with **Postman**.I'm always looking for opportunities to learn, collaborate, and contribute to real-world solutions.
 
 **PT:**  
-Sou um entusiasta da tecnologia em formação como Desenvolvedor Full Stack. Trabalho principalmente com **Python (Flask)** no back-end e **React + TypeScript** além de **HTML** e **CSS3* na criação de interfaces responsivas.  
+Sou um entusiasta da tecnologia em formação como Desenvolvedor Full Stack. Trabalho principalmente com **Python (Flask)** no back-end e **React + TypeScript** além de **HTML** e **CSS3** na criação de interfaces responsivas.  
 Tenho experiência com **APIs RESTful**, bancos de dados **MySQL** e testes com **Postman**. Estou sempre em busca de oportunidades para aprender, colaborar e criar soluções reais.
 
 ---
