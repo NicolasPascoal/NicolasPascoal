@@ -50,7 +50,7 @@ Tenho experiência com **APIs RESTful**, bancos de dados **MySQL** e testes com 
 ---
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/nicolasgomespascoal/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolaspascoaldev/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
