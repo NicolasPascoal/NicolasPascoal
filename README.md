@@ -1,74 +1,50 @@
-# 👋 Hello! I'm Nicolas Gomes Pascoal
----
-🎓 Information Systems student at Universidade Santa Cecília  
-💻 Full Stack Development Intern at PRODESAN  
-🌐 Passionate about web development, APIs, and modern interfaces  
+<img src="assets/hero.svg" width="100%" alt="Nicolas Pascoal, junior software developer. A spotlight projects the NP monogram onto the night sky">
 
----
+**Junior Software Developer at Vértice.** By day I build and maintain the OneClick platform in C# and .NET. After hours I build **Gabaro**, a finance SaaS for construction companies that already runs in production for a real client.
 
-## 🚀 About Me | Sobre Mim
-**EN:**  
-I'm a tech enthusiast currently growing as a Full Stack Developer. I work mainly with **Python (Flask)** for backend development and **React + TypeScript** for building responsive and dynamic interfaces.  
-I'm familiar with **RESTful APIs**, **MySQL databases**, and API testing with **Postman**.I'm always looking for opportunities to learn, collaborate, and contribute to real-world solutions.
+<img src="assets/dashboard.svg" width="100%" alt="Live dashboard: my career timeline, most recently pushed repositories, Gabaro roadmap progress, GitHub activity and the languages I use most">
 
-**PT:**  
-Sou um entusiasta da tecnologia em formação como Desenvolvedor Full Stack. Trabalho principalmente com **Python (Flask)** no back-end e **React + TypeScript** além de **HTML** e **CSS3** na criação de interfaces responsivas.  
-Tenho experiência com **APIs RESTful**, bancos de dados **MySQL** e testes com **Postman**. Estou sempre em busca de oportunidades para aprender, colaborar e criar soluções reais.
+<sub>The dashboard is live: a GitHub Action reads my repositories every 6 hours and redraws it. Each spike in the activity line is a day I committed; the Gabaro blocks are real roadmap tasks, read straight from <a href="https://github.com/NicolasPascoal/Expense-Management-Project/blob/main/STATUS.md"><code>STATUS.md</code></a>.</sub>
 
----
+## Currently shipping
 
-# 🛠️ Tech Stack
+**Vértice · OneClick** — Junior Software Developer
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" alt="c#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="30" alt="Angular" />
-</p>
+- Build features, fix bugs and support the OneClick platform
+- APIs, Oracle queries and schema changes, reports, screens and data exports
+- Testing, UAT, releases and code review in a Git/GitHub workflow
+- Evolve product modules and business rules, with technical documentation
 
+`C#` `.NET Framework 4.8` `ASP.NET MVC / Web API` `SQL / Oracle` `NHibernate` `jQuery / Kendo UI`
 
-  ---
+## Projects
 
-## 📈 Looking For | Buscando
+| Project | What it does | Built with |
+|---|---|---|
+| **[Gabaro](https://github.com/NicolasPascoal/Expense-Management-Project)** | Multi-tenant finance SaaS for construction projects: budgets with alerts, cash flow, material requests, CSV/XLSX import and an audit trail. Live in production with a real client. | Flask · PostgreSQL · React + TS · Docker · GitHub Actions |
+| **[FTV Payments](https://github.com/NicolasPascoal/ftv-project)** | Payment management that sends WhatsApp reminders on its own when a fee goes overdue. Separate services orchestrated with Docker Compose. | Python · React + TS · MySQL · whatsapp-web.js |
+| **[Cofre](https://github.com/NicolasPascoal/cofre)** | Local password manager. The vault is encrypted on disk with AES-256-GCM, with the key derived from the master password via scrypt. | Bun · ElysiaJS · TypeScript |
+| **[Product Inventory](https://github.com/NicolasPascoal/product-inventory.api)** | Product and raw-material inventory control, with a separate API and front end. ([front end](https://github.com/NicolasPascoal/product-inventory)) | Quarkus · Java · TypeScript |
 
-**EN:**  
-- Opportunities to contribute to real-world projects  
-- Collaboration with developers and international teams  
-- Open source participation and networking
+<details>
+<summary><b>Full history</b></summary>
 
-**PT:**  
-- Oportunidades para contribuir em projetos reais  
-- Colaboração com desenvolvedores e equipes internacionais  
-- Participação em projetos open source e networking
+<br>
 
----
+**Vértice · OneClick** — Junior Software Developer · *Sep 2026 – present*
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/nicolaspascoaldev/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+**ARIKI** — IT Support Analyst · *Jul 2026 – Sep 2026*
+Tier 1/2 service desk within SLA, Active Directory users and permissions, infrastructure monitoring with Zabbix and Grafana.
 
- <a href="https://github.com/NicolasPascoal" target="_blank">
-  <img 
-    alt="Me siga no GitHub" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/nicolaspascoal?color=gray&labelColor=2f2f2f&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
+**PRODESAN** — IT Infrastructure & Full Stack Development Intern · *Jul 2024 – Jul 2026*
+REST APIs in Python (Flask + SQLAlchemy) with React and TypeScript front ends, MySQL modeling and tuning, supporting production systems, monitoring with Zabbix and ticketing in GLPI.
 
----
+**Education** — B.Sc. in Information Systems, Universidade Santa Cecília (2024 – 2027) · Technical diploma in Business Administration, Senac Santos (2021 – 2023)
 
-⭐ Thanks for visiting my profile! Feel free to check out my repositories or get in touch.  
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato.
+**Languages** — Portuguese (native) · English (advanced)
 
+</details>
 
+<br>
+
+**Hiring, a project, or just want to talk code? → [Find me on LinkedIn](https://www.linkedin.com/in/nicolaspascoaldev/)**
