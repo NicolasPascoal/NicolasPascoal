@@ -30,7 +30,7 @@
   <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#EDEDED" stop-opacity=".15"/><stop offset=".7" stop-color="#EDEDED" stop-opacity=".6"/><stop offset="1" stop-color="#EDEDED"/></linearGradient>
 </defs>
 <rect width="1000" height="862" rx="16" fill="#050506"/>
-<text x="40" y="50" class="lbl">CAREER</text><text x="960" y="50" class="sm" text-anchor="end">14 nov 2026</text>
+<text x="40" y="50" class="lbl">CAREER</text><text x="960" y="50" class="sm" text-anchor="end">15 nov 2026</text>
 <line x1="40.0" y1="74" x2="40.0" y2="248" stroke="#101012"/>
 <text x="40.0" y="262" class="sm" style="fill:#2E2E33">2021</text>
 <line x1="171.4" y1="74" x2="171.4" y2="248" stroke="#101012"/>
@@ -45,19 +45,19 @@
 <text x="697.2" y="262" class="sm" style="fill:#2E2E33">2026</text>
 <line x1="828.6" y1="74" x2="828.6" y2="248" stroke="#101012"/>
 <text x="828.6" y="262" class="sm" style="fill:#2E2E33">2027</text>
-<rect x="784.7" y="102" width="26.6" height="3" rx="1.5" fill="#F5C842" class="bar" style="animation-delay:0.30s"/>
-<circle cx="811.3" cy="103.5" r="4" fill="#F5C842"/><circle cx="811.3" cy="103.5" r="10" fill="#F5C842" opacity=".18" class="pulse"/>
-<text x="795.3" y="94" text-anchor="end" class="job" style="animation-delay:0.30s"><tspan class="org" style="fill:#F5C842">VÉRTICE</tspan>   junior software developer · oneclick</text>
+<rect x="784.7" y="102" width="27.0" height="3" rx="1.5" fill="#F5C842" class="bar" style="animation-delay:0.30s"/>
+<circle cx="811.7" cy="103.5" r="4" fill="#F5C842"/><circle cx="811.7" cy="103.5" r="10" fill="#F5C842" opacity=".18" class="pulse"/>
+<text x="795.7" y="94" text-anchor="end" class="job" style="animation-delay:0.30s"><tspan class="org" style="fill:#F5C842">VÉRTICE</tspan>   junior software developer · oneclick</text>
 <rect x="762.4" y="134" width="22.3" height="3" rx="1.5" fill="#9A9AA0" class="bar" style="animation-delay:0.42s"/>
 <text x="784.7" y="126" text-anchor="end" class="job" style="animation-delay:0.42s"><tspan class="org" style="fill:#EDEDED">ARIKI</tspan>   it support analyst</text>
 <rect x="499.6" y="166" width="262.8" height="3" rx="1.5" fill="#9A9AA0" class="bar" style="animation-delay:0.54s"/>
 <text x="499.6" y="158" text-anchor="start" class="job" style="animation-delay:0.54s"><tspan class="org" style="fill:#EDEDED">PRODESAN</tspan>   it infrastructure + full stack dev intern</text>
-<rect x="445.3" y="198" width="366.1" height="3" rx="1.5" fill="#5C5C63" class="bar" style="animation-delay:0.66s"/>
-<line x1="817.3" y1="199.5" x2="948.8" y2="199.5" stroke="#2E2E33" stroke-dasharray="1 6" stroke-linecap="round" stroke-width="2" class="job" style="animation-delay:0.66s"/>
+<rect x="445.3" y="198" width="366.4" height="3" rx="1.5" fill="#5C5C63" class="bar" style="animation-delay:0.66s"/>
+<line x1="817.7" y1="199.5" x2="948.8" y2="199.5" stroke="#2E2E33" stroke-dasharray="1 6" stroke-linecap="round" stroke-width="2" class="job" style="animation-delay:0.66s"/>
 <text x="445.3" y="190" text-anchor="start" class="job" style="animation-delay:0.66s"><tspan class="org" style="fill:#EDEDED">UNISANTA</tspan>   b.sc. information systems</text>
 <rect x="51.2" y="230" width="371.8" height="3" rx="1.5" fill="#9A9AA0" class="bar" style="animation-delay:0.78s"/>
 <text x="51.2" y="222" text-anchor="start" class="job" style="animation-delay:0.78s"><tspan class="org" style="fill:#EDEDED">SENAC SANTOS</tspan>   technical diploma, business admin</text>
-<line x1="811.3" y1="74" x2="811.3" y2="248" stroke="#F5C842" stroke-dasharray="2 4" opacity=".45"/>
+<line x1="811.7" y1="74" x2="811.7" y2="248" stroke="#F5C842" stroke-dasharray="2 4" opacity=".45"/>
 <line x1="0" y1="292" x2="1000" y2="292" stroke="#161618"/>
 <line x1="500" y1="292" x2="500" y2="572" stroke="#161618"/>
 <text x="40" y="342" class="lbl">REPOSITORIES</text><text x="460" y="342" class="sm" text-anchor="end">34 public</text>
@@ -65,37 +65,37 @@
 <circle cx="43" cy="384" r="3" fill="#F5C842" class="pulse"/>
 <text x="56" y="388" class="cell" style="fill:#F5C842">active</text>
 <text x="132" y="388" class="cell strong">desafio02-ddm</text>
-<text x="460" y="388" class="cell" text-anchor="end">today</text>
+<text x="460" y="388" class="cell" text-anchor="end">1d ago</text>
 </g>
 <g class="row" style="animation-delay:0.68s">
 <circle cx="43" cy="414" r="3" fill="#F5C842" class="pulse"/>
 <text x="56" y="418" class="cell" style="fill:#F5C842">active</text>
 <text x="132" y="418" class="cell strong">MeuTreino</text>
-<text x="460" y="418" class="cell" text-anchor="end">today</text>
+<text x="460" y="418" class="cell" text-anchor="end">1d ago</text>
 </g>
 <g class="row" style="animation-delay:0.76s">
 <circle cx="43" cy="444" r="3" fill="#9A9AA0"/>
 <text x="56" y="448" class="cell" style="fill:#9A9AA0">stable</text>
 <text x="132" y="448" class="cell strong">Expense-Management-Project</text>
-<text x="460" y="448" class="cell" text-anchor="end">7d ago</text>
+<text x="460" y="448" class="cell" text-anchor="end">8d ago</text>
 </g>
 <g class="row" style="animation-delay:0.84s">
 <circle cx="43" cy="474" r="3" fill="#9A9AA0"/>
 <text x="56" y="478" class="cell" style="fill:#9A9AA0">stable</text>
 <text x="132" y="478" class="cell strong">auth-firebase</text>
-<text x="460" y="478" class="cell" text-anchor="end">14d ago</text>
+<text x="460" y="478" class="cell" text-anchor="end">15d ago</text>
 </g>
 <g class="row" style="animation-delay:0.92s">
 <circle cx="43" cy="504" r="3" fill="#9A9AA0"/>
 <text x="56" y="508" class="cell" style="fill:#9A9AA0">stable</text>
 <text x="132" y="508" class="cell strong">Portfolio-main</text>
-<text x="460" y="508" class="cell" text-anchor="end">15d ago</text>
+<text x="460" y="508" class="cell" text-anchor="end">16d ago</text>
 </g>
 <g class="row" style="animation-delay:1.00s">
 <circle cx="43" cy="534" r="3" fill="#9A9AA0"/>
 <text x="56" y="538" class="cell" style="fill:#9A9AA0">stable</text>
 <text x="132" y="538" class="cell strong">CalcImport</text>
-<text x="460" y="538" class="cell" text-anchor="end">17d ago</text>
+<text x="460" y="538" class="cell" text-anchor="end">18d ago</text>
 </g>
 <text x="540" y="342" class="lbl">GABARO · SAAS ROADMAP</text><text x="960" y="342" class="sm" text-anchor="end">STATUS.md</text>
 <text x="538" y="410" class="big">15<tspan class="big-dim">/34</tspan></text>
@@ -141,22 +141,22 @@
 <text x="540" y="546" class="sm" style="fill:#9A9AA0">live in production with a real client · 50 tests · ci/cd</text>
 <line x1="0" y1="572" x2="1000" y2="572" stroke="#161618"/>
 <text x="40" y="622" class="lbl">ACTIVITY · 12 MONTHS</text><text x="960" y="622" class="sm" text-anchor="end">each spike is a day with commits</text>
-<path d="M40 696L37.0 696L38.5 699.4L40.0 674.5L41.6 702.5L43.2 696L253.3 696L254.8 699.4L256.3 674.5L257.9 702.5L259.5 696L268.2 696L269.7 700.2L271.2 669.7L272.8 703.9L274.4 696L303.1 696L304.6 702.1L306.1 657.7L307.7 707.5L309.3 696L310.5 696L312.0 699.4L313.5 674.5L315.1 702.5L316.7 696L327.9 696L329.4 699.4L330.9 674.5L332.5 702.5L334.1 696L417.4 696L418.9 699.4L420.4 674.5L422.0 702.5L423.6 696L462.2 696L463.7 701.7L465.2 660.2L466.8 706.7L468.4 696L464.7 696L466.2 700.2L467.7 669.7L469.3 703.9L470.9 696L474.6 696L476.1 699.4L477.6 674.5L479.2 702.5L480.8 696L492.0 696L493.5 699.4L495.0 674.5L496.6 702.5L498.2 696L494.5 696L496.0 699.4L497.5 674.5L499.1 702.5L500.7 696L511.9 696L513.4 699.4L514.9 674.5L516.5 702.5L518.1 696L628.8 696L630.3 699.4L631.8 674.5L633.4 702.5L635.0 696L658.6 696L660.1 699.4L661.6 674.5L663.2 702.5L664.8 696L661.1 696L662.6 699.4L664.1 674.5L665.7 702.5L667.3 696L700.9 696L702.4 699.4L703.9 674.5L705.5 702.5L707.1 696L755.6 696L757.1 700.8L758.6 666.0L760.2 705.0L761.8 696L763.1 696L764.6 700.8L766.1 666.0L767.7 705.0L769.3 696L780.5 696L782.0 701.3L783.5 662.9L785.1 705.9L786.7 696L792.9 696L794.4 700.8L795.9 666.0L797.5 705.0L799.1 696L800.4 696L801.9 699.4L803.4 674.5L805.0 702.5L806.6 696L840.1 696L841.6 700.2L843.1 669.7L844.7 703.9L846.3 696L862.5 696L864.0 704.0L865.5 646.0L867.1 711.0L868.7 696L902.3 696L903.8 701.7L905.3 660.2L906.9 706.7L908.5 696L914.7 696L916.2 700.2L917.7 669.7L919.3 703.9L920.9 696L917.2 696L918.7 701.7L920.2 660.2L921.8 706.7L923.4 696L919.7 696L921.2 700.2L922.7 669.7L924.3 703.9L925.9 696L937.1 696L938.6 699.4L940.1 674.5L941.7 702.5L943.3 696L944.6 696L946.1 700.2L947.6 669.7L949.2 703.9L950.8 696L947.1 696L948.6 700.2L950.1 669.7L951.7 703.9L953.3 696L954.5 696L956.0 702.1L957.5 657.7L959.1 707.5L960.7 696L957.0 696L958.5 699.4L960.0 674.5L961.6 702.5L963.2 696L960 696" pathLength="1" class="ecg" fill="none" stroke="#fff" stroke-width="4" opacity=".08" filter="url(#soft)"/>
-<path d="M40 696L37.0 696L38.5 699.4L40.0 674.5L41.6 702.5L43.2 696L253.3 696L254.8 699.4L256.3 674.5L257.9 702.5L259.5 696L268.2 696L269.7 700.2L271.2 669.7L272.8 703.9L274.4 696L303.1 696L304.6 702.1L306.1 657.7L307.7 707.5L309.3 696L310.5 696L312.0 699.4L313.5 674.5L315.1 702.5L316.7 696L327.9 696L329.4 699.4L330.9 674.5L332.5 702.5L334.1 696L417.4 696L418.9 699.4L420.4 674.5L422.0 702.5L423.6 696L462.2 696L463.7 701.7L465.2 660.2L466.8 706.7L468.4 696L464.7 696L466.2 700.2L467.7 669.7L469.3 703.9L470.9 696L474.6 696L476.1 699.4L477.6 674.5L479.2 702.5L480.8 696L492.0 696L493.5 699.4L495.0 674.5L496.6 702.5L498.2 696L494.5 696L496.0 699.4L497.5 674.5L499.1 702.5L500.7 696L511.9 696L513.4 699.4L514.9 674.5L516.5 702.5L518.1 696L628.8 696L630.3 699.4L631.8 674.5L633.4 702.5L635.0 696L658.6 696L660.1 699.4L661.6 674.5L663.2 702.5L664.8 696L661.1 696L662.6 699.4L664.1 674.5L665.7 702.5L667.3 696L700.9 696L702.4 699.4L703.9 674.5L705.5 702.5L707.1 696L755.6 696L757.1 700.8L758.6 666.0L760.2 705.0L761.8 696L763.1 696L764.6 700.8L766.1 666.0L767.7 705.0L769.3 696L780.5 696L782.0 701.3L783.5 662.9L785.1 705.9L786.7 696L792.9 696L794.4 700.8L795.9 666.0L797.5 705.0L799.1 696L800.4 696L801.9 699.4L803.4 674.5L805.0 702.5L806.6 696L840.1 696L841.6 700.2L843.1 669.7L844.7 703.9L846.3 696L862.5 696L864.0 704.0L865.5 646.0L867.1 711.0L868.7 696L902.3 696L903.8 701.7L905.3 660.2L906.9 706.7L908.5 696L914.7 696L916.2 700.2L917.7 669.7L919.3 703.9L920.9 696L917.2 696L918.7 701.7L920.2 660.2L921.8 706.7L923.4 696L919.7 696L921.2 700.2L922.7 669.7L924.3 703.9L925.9 696L937.1 696L938.6 699.4L940.1 674.5L941.7 702.5L943.3 696L944.6 696L946.1 700.2L947.6 669.7L949.2 703.9L950.8 696L947.1 696L948.6 700.2L950.1 669.7L951.7 703.9L953.3 696L954.5 696L956.0 702.1L957.5 657.7L959.1 707.5L960.7 696L957.0 696L958.5 699.4L960.0 674.5L961.6 702.5L963.2 696L960 696" pathLength="1" class="ecg" fill="none" stroke="url(#fade)" stroke-width="1.3" stroke-linejoin="round"/>
+<path d="M40 696L239.2 696L240.7 699.4L242.2 674.5L243.8 702.5L245.4 696L254.4 696L255.9 700.2L257.4 669.7L259.0 703.9L260.6 696L289.7 696L291.2 702.1L292.7 657.7L294.3 707.5L295.9 696L297.3 696L298.8 699.4L300.3 674.5L301.9 702.5L303.5 696L315.0 696L316.5 699.4L318.0 674.5L319.6 702.5L321.2 696L406.0 696L407.5 699.4L409.0 674.5L410.6 702.5L412.2 696L451.5 696L453.0 701.7L454.5 660.2L456.1 706.7L457.7 696L454.0 696L455.5 700.2L457.0 669.7L458.6 703.9L460.2 696L464.1 696L465.6 699.4L467.1 674.5L468.7 702.5L470.3 696L481.8 696L483.3 699.4L484.8 674.5L486.4 702.5L488.0 696L484.4 696L485.9 699.4L487.4 674.5L489.0 702.5L490.6 696L502.1 696L503.6 699.4L505.1 674.5L506.7 702.5L508.3 696L620.8 696L622.3 699.4L623.8 674.5L625.4 702.5L627.0 696L651.2 696L652.7 699.4L654.2 674.5L655.8 702.5L657.4 696L653.7 696L655.2 699.4L656.7 674.5L658.3 702.5L659.9 696L694.1 696L695.6 699.4L697.1 674.5L698.7 702.5L700.3 696L749.7 696L751.2 700.8L752.7 666.0L754.3 705.0L755.9 696L757.3 696L758.8 700.8L760.3 666.0L761.9 705.0L763.5 696L775.0 696L776.5 701.3L778.0 662.9L779.6 705.9L781.2 696L787.7 696L789.2 700.8L790.7 666.0L792.3 705.0L793.9 696L795.2 696L796.7 699.4L798.2 674.5L799.8 702.5L801.4 696L835.7 696L837.2 700.2L838.7 669.7L840.3 703.9L841.9 696L858.4 696L859.9 704.0L861.4 646.0L863.0 711.0L864.6 696L898.9 696L900.4 701.7L901.9 660.2L903.5 706.7L905.1 696L911.5 696L913.0 700.2L914.5 669.7L916.1 703.9L917.7 696L914.0 696L915.5 701.7L917.0 660.2L918.6 706.7L920.2 696L916.6 696L918.1 700.2L919.6 669.7L921.2 703.9L922.8 696L934.3 696L935.8 699.4L937.3 674.5L938.9 702.5L940.5 696L941.8 696L943.3 700.2L944.8 669.7L946.4 703.9L948.0 696L944.4 696L945.9 700.2L947.4 669.7L949.0 703.9L950.6 696L951.9 696L953.4 702.1L954.9 657.7L956.5 707.5L958.1 696L954.5 696L956.0 699.4L957.5 674.5L959.1 702.5L960.7 696L960 696" pathLength="1" class="ecg" fill="none" stroke="#fff" stroke-width="4" opacity=".08" filter="url(#soft)"/>
+<path d="M40 696L239.2 696L240.7 699.4L242.2 674.5L243.8 702.5L245.4 696L254.4 696L255.9 700.2L257.4 669.7L259.0 703.9L260.6 696L289.7 696L291.2 702.1L292.7 657.7L294.3 707.5L295.9 696L297.3 696L298.8 699.4L300.3 674.5L301.9 702.5L303.5 696L315.0 696L316.5 699.4L318.0 674.5L319.6 702.5L321.2 696L406.0 696L407.5 699.4L409.0 674.5L410.6 702.5L412.2 696L451.5 696L453.0 701.7L454.5 660.2L456.1 706.7L457.7 696L454.0 696L455.5 700.2L457.0 669.7L458.6 703.9L460.2 696L464.1 696L465.6 699.4L467.1 674.5L468.7 702.5L470.3 696L481.8 696L483.3 699.4L484.8 674.5L486.4 702.5L488.0 696L484.4 696L485.9 699.4L487.4 674.5L489.0 702.5L490.6 696L502.1 696L503.6 699.4L505.1 674.5L506.7 702.5L508.3 696L620.8 696L622.3 699.4L623.8 674.5L625.4 702.5L627.0 696L651.2 696L652.7 699.4L654.2 674.5L655.8 702.5L657.4 696L653.7 696L655.2 699.4L656.7 674.5L658.3 702.5L659.9 696L694.1 696L695.6 699.4L697.1 674.5L698.7 702.5L700.3 696L749.7 696L751.2 700.8L752.7 666.0L754.3 705.0L755.9 696L757.3 696L758.8 700.8L760.3 666.0L761.9 705.0L763.5 696L775.0 696L776.5 701.3L778.0 662.9L779.6 705.9L781.2 696L787.7 696L789.2 700.8L790.7 666.0L792.3 705.0L793.9 696L795.2 696L796.7 699.4L798.2 674.5L799.8 702.5L801.4 696L835.7 696L837.2 700.2L838.7 669.7L840.3 703.9L841.9 696L858.4 696L859.9 704.0L861.4 646.0L863.0 711.0L864.6 696L898.9 696L900.4 701.7L901.9 660.2L903.5 706.7L905.1 696L911.5 696L913.0 700.2L914.5 669.7L916.1 703.9L917.7 696L914.0 696L915.5 701.7L917.0 660.2L918.6 706.7L920.2 696L916.6 696L918.1 700.2L919.6 669.7L921.2 703.9L922.8 696L934.3 696L935.8 699.4L937.3 674.5L938.9 702.5L940.5 696L941.8 696L943.3 700.2L944.8 669.7L946.4 703.9L948.0 696L944.4 696L945.9 700.2L947.4 669.7L949.0 703.9L950.6 696L951.9 696L953.4 702.1L954.9 657.7L956.5 707.5L958.1 696L954.5 696L956.0 699.4L957.5 674.5L959.1 702.5L960.7 696L960 696" pathLength="1" class="ecg" fill="none" stroke="url(#fade)" stroke-width="1.3" stroke-linejoin="round"/>
 <circle r="3" fill="#F5C842" class="scan" filter="url(#glow)"/>
-<style>.scan{offset-path:path("M40 696L37.0 696L38.5 699.4L40.0 674.5L41.6 702.5L43.2 696L253.3 696L254.8 699.4L256.3 674.5L257.9 702.5L259.5 696L268.2 696L269.7 700.2L271.2 669.7L272.8 703.9L274.4 696L303.1 696L304.6 702.1L306.1 657.7L307.7 707.5L309.3 696L310.5 696L312.0 699.4L313.5 674.5L315.1 702.5L316.7 696L327.9 696L329.4 699.4L330.9 674.5L332.5 702.5L334.1 696L417.4 696L418.9 699.4L420.4 674.5L422.0 702.5L423.6 696L462.2 696L463.7 701.7L465.2 660.2L466.8 706.7L468.4 696L464.7 696L466.2 700.2L467.7 669.7L469.3 703.9L470.9 696L474.6 696L476.1 699.4L477.6 674.5L479.2 702.5L480.8 696L492.0 696L493.5 699.4L495.0 674.5L496.6 702.5L498.2 696L494.5 696L496.0 699.4L497.5 674.5L499.1 702.5L500.7 696L511.9 696L513.4 699.4L514.9 674.5L516.5 702.5L518.1 696L628.8 696L630.3 699.4L631.8 674.5L633.4 702.5L635.0 696L658.6 696L660.1 699.4L661.6 674.5L663.2 702.5L664.8 696L661.1 696L662.6 699.4L664.1 674.5L665.7 702.5L667.3 696L700.9 696L702.4 699.4L703.9 674.5L705.5 702.5L707.1 696L755.6 696L757.1 700.8L758.6 666.0L760.2 705.0L761.8 696L763.1 696L764.6 700.8L766.1 666.0L767.7 705.0L769.3 696L780.5 696L782.0 701.3L783.5 662.9L785.1 705.9L786.7 696L792.9 696L794.4 700.8L795.9 666.0L797.5 705.0L799.1 696L800.4 696L801.9 699.4L803.4 674.5L805.0 702.5L806.6 696L840.1 696L841.6 700.2L843.1 669.7L844.7 703.9L846.3 696L862.5 696L864.0 704.0L865.5 646.0L867.1 711.0L868.7 696L902.3 696L903.8 701.7L905.3 660.2L906.9 706.7L908.5 696L914.7 696L916.2 700.2L917.7 669.7L919.3 703.9L920.9 696L917.2 696L918.7 701.7L920.2 660.2L921.8 706.7L923.4 696L919.7 696L921.2 700.2L922.7 669.7L924.3 703.9L925.9 696L937.1 696L938.6 699.4L940.1 674.5L941.7 702.5L943.3 696L944.6 696L946.1 700.2L947.6 669.7L949.2 703.9L950.8 696L947.1 696L948.6 700.2L950.1 669.7L951.7 703.9L953.3 696L954.5 696L956.0 702.1L957.5 657.7L959.1 707.5L960.7 696L957.0 696L958.5 699.4L960.0 674.5L961.6 702.5L963.2 696L960 696");offset-rotate:0deg;opacity:0;animation:scan 8s linear 3.6s infinite}</style>
-<text x="94.7" y="726" class="sm" style="fill:#2E2E33">dec</text>
-<text x="171.8" y="726" class="sm" style="fill:#2E2E33">jan</text>
-<text x="248.9" y="726" class="sm" style="fill:#2E2E33">feb</text>
-<text x="318.5" y="726" class="sm" style="fill:#2E2E33">mar</text>
-<text x="395.6" y="726" class="sm" style="fill:#2E2E33">apr</text>
-<text x="470.2" y="726" class="sm" style="fill:#2E2E33">may</text>
-<text x="547.2" y="726" class="sm" style="fill:#2E2E33">jun</text>
-<text x="621.8" y="726" class="sm" style="fill:#2E2E33">jul</text>
-<text x="698.9" y="726" class="sm" style="fill:#2E2E33">aug</text>
-<text x="776.0" y="726" class="sm" style="fill:#2E2E33">sep</text>
-<text x="850.6" y="726" class="sm" style="fill:#2E2E33">oct</text>
-<text x="927.7" y="726" class="sm" style="fill:#2E2E33">nov</text>
+<style>.scan{offset-path:path("M40 696L239.2 696L240.7 699.4L242.2 674.5L243.8 702.5L245.4 696L254.4 696L255.9 700.2L257.4 669.7L259.0 703.9L260.6 696L289.7 696L291.2 702.1L292.7 657.7L294.3 707.5L295.9 696L297.3 696L298.8 699.4L300.3 674.5L301.9 702.5L303.5 696L315.0 696L316.5 699.4L318.0 674.5L319.6 702.5L321.2 696L406.0 696L407.5 699.4L409.0 674.5L410.6 702.5L412.2 696L451.5 696L453.0 701.7L454.5 660.2L456.1 706.7L457.7 696L454.0 696L455.5 700.2L457.0 669.7L458.6 703.9L460.2 696L464.1 696L465.6 699.4L467.1 674.5L468.7 702.5L470.3 696L481.8 696L483.3 699.4L484.8 674.5L486.4 702.5L488.0 696L484.4 696L485.9 699.4L487.4 674.5L489.0 702.5L490.6 696L502.1 696L503.6 699.4L505.1 674.5L506.7 702.5L508.3 696L620.8 696L622.3 699.4L623.8 674.5L625.4 702.5L627.0 696L651.2 696L652.7 699.4L654.2 674.5L655.8 702.5L657.4 696L653.7 696L655.2 699.4L656.7 674.5L658.3 702.5L659.9 696L694.1 696L695.6 699.4L697.1 674.5L698.7 702.5L700.3 696L749.7 696L751.2 700.8L752.7 666.0L754.3 705.0L755.9 696L757.3 696L758.8 700.8L760.3 666.0L761.9 705.0L763.5 696L775.0 696L776.5 701.3L778.0 662.9L779.6 705.9L781.2 696L787.7 696L789.2 700.8L790.7 666.0L792.3 705.0L793.9 696L795.2 696L796.7 699.4L798.2 674.5L799.8 702.5L801.4 696L835.7 696L837.2 700.2L838.7 669.7L840.3 703.9L841.9 696L858.4 696L859.9 704.0L861.4 646.0L863.0 711.0L864.6 696L898.9 696L900.4 701.7L901.9 660.2L903.5 706.7L905.1 696L911.5 696L913.0 700.2L914.5 669.7L916.1 703.9L917.7 696L914.0 696L915.5 701.7L917.0 660.2L918.6 706.7L920.2 696L916.6 696L918.1 700.2L919.6 669.7L921.2 703.9L922.8 696L934.3 696L935.8 699.4L937.3 674.5L938.9 702.5L940.5 696L941.8 696L943.3 700.2L944.8 669.7L946.4 703.9L948.0 696L944.4 696L945.9 700.2L947.4 669.7L949.0 703.9L950.6 696L951.9 696L953.4 702.1L954.9 657.7L956.5 707.5L958.1 696L954.5 696L956.0 699.4L957.5 674.5L959.1 702.5L960.7 696L960 696");offset-rotate:0deg;opacity:0;animation:scan 8s linear 3.6s infinite}</style>
+<text x="77.9" y="726" class="sm" style="fill:#2E2E33">dec</text>
+<text x="156.3" y="726" class="sm" style="fill:#2E2E33">jan</text>
+<text x="234.6" y="726" class="sm" style="fill:#2E2E33">feb</text>
+<text x="305.4" y="726" class="sm" style="fill:#2E2E33">mar</text>
+<text x="383.7" y="726" class="sm" style="fill:#2E2E33">apr</text>
+<text x="459.6" y="726" class="sm" style="fill:#2E2E33">may</text>
+<text x="537.9" y="726" class="sm" style="fill:#2E2E33">jun</text>
+<text x="613.7" y="726" class="sm" style="fill:#2E2E33">jul</text>
+<text x="692.1" y="726" class="sm" style="fill:#2E2E33">aug</text>
+<text x="770.4" y="726" class="sm" style="fill:#2E2E33">sep</text>
+<text x="846.3" y="726" class="sm" style="fill:#2E2E33">oct</text>
+<text x="924.6" y="726" class="sm" style="fill:#2E2E33">nov</text>
 <line x1="0" y1="742" x2="1000" y2="742" stroke="#161618"/>
 <text x="40" y="792" class="lbl">STACK ACROSS PUBLIC REPOS</text><text x="960" y="792" class="sm" text-anchor="end">by bytes of code</text>
 <rect x="40.0" y="810" width="265.8" height="4" fill="#EDEDED" class="bar" style="animation-delay:1.20s"/>
